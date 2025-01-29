@@ -36,8 +36,7 @@ Stock-Prediction-Bot/
 
 ## 🏆 Acknowledgments
 - Inspired by financial market analysis techniques.
-- Inspired by personal passion in investing and leveraging technology to create impactful solutions.
-- Projects were done in a design team as part of the Qmind organization.  
+- Inspired by personal passion in investing and leveraging technology to create impactful solutions.  
 - Uses publicly available stock market data and news APIs.
 
 
