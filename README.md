@@ -22,20 +22,22 @@ Stock-Prediction-Bot is a machine learning-based system that predicts stock pric
 ## 📂 Project Structure
 ```
 Stock-Prediction-Bot/
-│── Fetching_News_Articles/   # Scripts for news article scraping
+│── Fetching_News_Articles/   # Different web scraper bots for news outlets
 │── LSTM_model/               # LSTM model implementation
 │── NLP/                      # Natural Language Processing methods
 │── app.py                    # Main application script
-│── data_exploration.py        # Exploratory Data Analysis (EDA)
-│── data_setup.py              # Data preparation & preprocessing
-│── datatype_to_stock.py       # Data handling utilities
-│── live_demo.py               # Real-time stock prediction demo
-│── xgb_model.py               # XGBoost model implementation
-└── README.md                  # Project documentation
+│── data_exploration.py       # Exploratory Data Analysis (EDA)
+│── data_setup.py             # Data preparation & preprocessing
+│── datatype_to_stock.py      # Data handling utilities
+│── live_demo.py              # Real-time stock prediction demo
+│── xgb_model.py              # XGBoost model implementation
+└── README.md                 # Project documentation
 ```
 
 ## 🏆 Acknowledgments
 - Inspired by financial market analysis techniques.
+- Inspired by personal passion in investing and leveraging technology to create impactful solutions.
+- Projects were done in a design team as part of the Qmind organization.  
 - Uses publicly available stock market data and news APIs.
 
 
