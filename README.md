@@ -1,6 +1,6 @@
 # Stock-Prediction-Bot
 
-![Stock Prediction Bot](https://img.shields.io/badge/Stock-Prediction-green.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LSTM%20%26%20XGBoost-orange.svg)
+![Stock Prediction Bot](https://img.shields.io/badge/Stock-Prediction-green.svg) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LSTM%20%26%20NLP-orange.svg)
 
 ## 📌 Overview
 Stock-Prediction-Bot is a machine learning-based system that predicts stock prices using Long Short-Term Memory (LSTM) networks and XGBoost models. It also integrates **Natural Language Processing (NLP)** to analyze sentiment from news articles, providing a more holistic approach to market forecasting.
