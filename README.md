@@ -6,7 +6,7 @@
 Stock-Prediction-Bot is a machine learning-based system that predicts stock prices using Long Short-Term Memory (LSTM) networks and XGBoost models. It also integrates **Natural Language Processing (NLP)** to analyze sentiment from news articles, providing a more holistic approach to market forecasting.
 
 ## 🚀 Features
-- **LSTM & XGBoost Models** for accurate time-series predictions.
+- **LSTM & NLP Models** for accurate time-series predictions.
 - **News Sentiment Analysis** using NLP techniques.
 - **Real-time Stock Data Fetching** for live predictions.
 - **Data Preprocessing & Exploration** for better model performance.
